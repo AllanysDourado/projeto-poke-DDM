@@ -294,7 +294,7 @@ return (
          return (
 <View style={styles.container}>
          <View >
-        <Text style={styles.description}>Quem é esse pokémom!?</Text>
+        <Text style={styles.description}>Quem é esse pokémon!?</Text>
       </View>
   <View style={styles.pontuacao}>
     <Text>Pontos: {pontos}</Text>
